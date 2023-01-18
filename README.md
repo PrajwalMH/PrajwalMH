@@ -12,7 +12,7 @@ I'm Prajwal M Hulamani
 
 ## Languages
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrajwalMH&show_icons=true&theme=tokyonight&locale=en&layout=compact&langs_count=7" /></br>
+<img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=PrajwalMH&show_icons=true&theme=tokyonight&locale=en&layout=compact&langs_count=7" /></br>
 
 
 ## Connect Me 🔗
