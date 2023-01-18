@@ -31,7 +31,7 @@ I'm Prajwal M Hulamani
 ## 📈 Stats 
 <p>
 	
-  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=PrajwalMH&show_icons=true&theme=tokyonight" />
+  <img width="54%" src="https://github-readme-stats.vercel-sigma-five.app/api?username=PrajwalMH&show_icons=true&theme=tokyonight" />
   
   
 </p>
