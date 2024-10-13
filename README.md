@@ -5,7 +5,7 @@
 I'm Prajwal M Hulamani
 <ul>
   <li> I'm currently studying as Graduate student in <bold>University of Texas,Arlington</bold> for Masters in Computer Science</li>
-  <li> I'm worked as Java Backend Developer at startup<bold> Nuvepro 😎</bold></li>
+  <li> I have worked as Java Backend Developer at a startup<bold> Nuvepro 😎</bold></li>
   <li>I ❤️ Web Development and currently focus on Springboot</li>
   <li>I started with Open Source and learning AI🌱 </li>
   <li>I teach Core Java and Frontend Developement. You can DM me😉</li>
