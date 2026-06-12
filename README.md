@@ -320,13 +320,13 @@ Built a Smart City healthcare service web application designed to provide secure
 
 | Recognition | Details |
 |---|---|
-| Graduate Student in Computer Science | Pursuing MS in Computer Science at The University of Texas at Arlington |
-| Enterprise Backend Engineering | Built secure APIs, role-based systems, financial workflows, and scalable backend modules |
-| AI-Enhanced Product Builder | Created AI-powered LMS, triage, prescription, and prediction-based platforms |
-| Distributed Systems Builder | Implemented gRPC services, async compute workflows, and two-phase commit simulations |
-| Full Stack Portfolio Development | Built Spring Boot, Next.js, MySQL, Flask, and cloud-ready project ecosystems |
-| Open Source & GitHub Branding | Focused on building a recruiter-friendly engineering profile and public portfolio |
-| Academic Project Leadership | Delivered full-stack software engineering systems with documentation, reports, testing, and presentations |
+| Employee of the Month | Recognized at Nuvepro Technologies in January 2023 for backend system quality and team productivity |
+| Backend Validation Engineering | Improved database assessment validation coverage by 85% using Java-based validation logic |
+| System Performance Improvement | Improved processing efficiency by 40% and reduced backend error rates by 60% |
+| Testing & Reliability | Built JUnit and Mockito tests that improved reliability by 50% and reduced debugging time by 35% |
+| Smart City Impact | Built healthcare access workflows supporting 5,000+ e-citizens |
+| AI Healthcare Builder | Developed PharmaLens and TriagePro with AI-powered healthcare intelligence workflows |
+| Full Stack Product Builder | Built Spring Boot, Next.js, Flask, MySQL, PHP, and AWS-ready project ecosystems |
 
 </p>
 
