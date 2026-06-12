@@ -101,14 +101,15 @@ I bring a product engineering mindset: understanding user workflows, building en
 
 | Domain | Proficiency | Details |
 |---|---:|---|
-| Machine Learning Foundations | Advanced | Classification, similarity scoring, fuzzy matching, feature engineering, model evaluation, data preprocessing |
-| AI-Enhanced Full Stack Systems | Advanced | Integrated AI recommendations, triage prediction, prescription analysis, dashboards, search-based learning suggestions |
-| LLM & Agentic Workflows | Intermediate | RAG concepts, LangChain-style agents, semantic retrieval, AI assistant workflows, API-based intelligence layers |
-| Computer Vision | Intermediate | Edge detection, Hough transforms, Harris corners, feature matching, object detection pipelines, Faster R-CNN baseline comparison |
-| Recommendation Systems | Intermediate | Student performance-based recommendation logic, concept scoring, external search API integration, personalized learning suggestions |
-| Healthcare AI Prototypes | Intermediate | Symptom triage, department prediction, risk categorization, prescription interaction warnings |
-| Data Engineering for AI | Intermediate | CSV processing, REST-based model serving, Flask AI microservices, backend-to-AI service orchestration |
-| MLOps Awareness | Intermediate | Modular AI services, API integration, environment configuration, testable AI endpoints, deployment-ready architecture |
+| AI-Powered Full Stack Products | Advanced | Built prescription analysis, patient triage, learning recommendation, and prediction-based platforms |
+| NLP & Healthcare Intelligence | Advanced | Designed drug interaction checks, patient-friendly summaries, symptom analysis, and risk-based outputs |
+| Backend-AI Integration | Advanced | Connected Spring Boot backends with Python/Flask AI services using REST APIs and structured data flows |
+| Machine Learning Foundations | Intermediate | Classification, data preprocessing, similarity scoring, model-driven workflows, and analytics dashboards |
+| Recommendation Systems | Intermediate | Personalized learning suggestions, concept scoring, below-threshold detection, and search-based recommendations |
+| Computer Vision | Intermediate | Edge detection, Hough transforms, Harris corners, feature matching, object detection, and mAP evaluation |
+| Data Engineering for AI | Intermediate | MySQL-backed data flows, CSV export, query optimization, dashboard aggregation, and service orchestration |
+| Testing AI-Integrated Systems | Intermediate | JUnit, Mockito, API testing, integration testing, validation logic, and debugging workflows |
+
 
 ---
 
