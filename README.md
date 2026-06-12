@@ -274,6 +274,60 @@ Worked on validation systems for MSSQL-based assessments, reliability improvemen
   <img src="https://img.shields.io/badge/Testing-6D28D9?style=flat-square" />
 </p>
 
+
+### Software Engineer — Nuvepro Technologies Pvt. Ltd.  
+**Dec 2022 – Jul 2024 | Bengaluru, India**
+
+Worked on backend validation platforms and database assessment systems using Java, Spring Boot, Servlets, MSSQL, MySQL, and scalable validation logic for technical assessment projects.
+
+- Spearheaded development of validation codes for **MSSQL, MySQL, and database assessment projects** using Java, improving validation coverage by **85%**.
+- Delivered scalable backend solutions with **Core Java, Spring Boot, and Servlets**, improving client application processing efficiency by **40%**.
+- Enhanced backend system performance and accuracy, reducing error rates by **60%** while meeting industry benchmarks.
+- Recognized as **Employee of the Month — January 2023** for backend quality, productivity, and engineering contributions.
+
+<p>
+  <img src="https://img.shields.io/badge/Java-312E81?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-4F46E5?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Servlets-6D28D9?style=flat-square&logo=apachetomcat&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSSQL-7C3AED?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-312E81?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+### Software Engineer Intern — Nuvepro Technologies Pvt. Ltd.  
+**Sep 2022 – Dec 2022 | Bengaluru, India**
+
+Contributed to MSSQL assessment validation systems, Java-based validation logic, unit testing, project documentation, and system robustness improvements.
+
+- Created and enhanced validation logic for the **MSSQL assessment project** in Java, increasing system robustness by **70%**.
+- Developed unit tests using **JUnit and Mockito**, improving code reliability by **50%** and reducing debugging time by **35%**.
+- Defined problem statements, estimated timelines, and documented architecture for a new validation project, reducing onboarding time by **30%**.
+- Designed validation codes to verify accuracy and validity of user-submitted SQL queries.
+
+<p>
+  <img src="https://img.shields.io/badge/Java-312E81?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit-4F46E5?style=flat-square&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mockito-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQL%20Validation-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Documentation-312E81?style=flat-square" />
+</p>
+
+### Intern — ELCITA Smart City Initiative  
+**Mar 2022 – Jun 2022 | Bengaluru, India**
+
+Built a Smart City healthcare service web application designed to provide secure 24/7 digital access for citizens and improve service coordination between citizen and admin portals.
+
+- Developed a healthcare service web application enabling secure 24/7 access for over **5,000 e-citizens**.
+- Implemented secure login functionality, strengthening data privacy compliance by **90%**.
+- Enabled integration between citizen and admin portals, improving service request resolution speed by **45%**.
+
+<p>
+  <img src="https://img.shields.io/badge/Web%20Development-312E81?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Secure%20Login-4F46E5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Healthcare%20Portal-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Smart%20City-7C3AED?style=flat-square" />
+</p>
+
+
 ---
 
 ## Achievements
