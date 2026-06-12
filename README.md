@@ -496,4 +496,4 @@ Open To:
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,45:4f46e5,75:302b63,100:0f0c29&height=130&section=footer" />
 </p>
-```
+
