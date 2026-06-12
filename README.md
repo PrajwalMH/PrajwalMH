@@ -258,23 +258,6 @@ The project includes preprocessing, annotation handling, model comparison, evalu
 
 ## Experience
 
-### Software Engineering Experience — Nuvepro Technologies  
-**Backend Development & Assessment Validation**
-
-Worked on validation systems for MSSQL-based assessments, reliability improvements, debugging support, and backend validation logic.
-
-- Built validation code for technical assessment environments.
-- Improved reliability of database assessment verification.
-- Wrote unit-test-oriented validation logic.
-- Supported debugging and quality improvement workflows.
-
-<p>
-  <img src="https://img.shields.io/badge/MSSQL-312E81?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend%20Validation-4F46E5?style=flat-square" />
-  <img src="https://img.shields.io/badge/Testing-6D28D9?style=flat-square" />
-</p>
-
-
 ### Software Engineer — Nuvepro Technologies Pvt. Ltd.  
 **Dec 2022 – Jul 2024 | Bengaluru, India**
 
