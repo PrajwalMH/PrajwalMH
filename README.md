@@ -249,60 +249,6 @@ The project includes preprocessing, annotation handling, model comparison, evalu
 
 ## Experience
 
-### Software Engineering Intern — Honeywell Technology Solutions  
-**Dec 2022 – Jun 2024**
-
-Worked on inventory optimization and supply chain intelligence systems involving item classification, fuzzy matching, multiprocessing, modeling, and redistribution logic for fast-moving and slow-moving components.
-
-- Built Python-based data processing workflows for inventory optimization.
-- Applied fuzzy string matching to identify similar and interchangeable components.
-- Improved redistribution recommendations using classification heuristics and modeling.
-- Supported supply chain decision-making for IC and MCU component planning.
-- Worked with data-heavy workflows requiring accuracy, performance, and maintainability.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-312E81?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Processing-4F46E5?style=flat-square" />
-  <img src="https://img.shields.io/badge/Optimization-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Supply%20Chain-7C3AED?style=flat-square" />
-</p>
-
-### Senior Software Engineer, Backend — Bitxia Tech  
-**Mar 2023 – May 2024**
-
-Worked on ENAM, an e-commerce platform for the Ministry of Agriculture, supporting large-scale user workflows, secure financial transactions, and protocol-level integration.
-
-- Developed backend services using Java, Spring Boot, and REST APIs.
-- Built secure financial transaction workflows with improved reliability.
-- Implemented JWT-based security and protected API flows.
-- Worked on ONDC protocol integration for cross-platform data consistency.
-- Contributed to scalable backend architecture for high-impact public-sector systems.
-
-<p>
-  <img src="https://img.shields.io/badge/Java-312E81?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-4F46E5?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/JWT%20Security-7C3AED?style=flat-square" />
-</p>
-
-### Software Engineer — Bitxia Tech  
-**Mar 2022 – Feb 2023**
-
-Built backend modules for Stride LMS, a loan management platform designed for NBFC workflows, third-party API integration, search optimization, and process automation.
-
-- Developed core loan management modules from scratch.
-- Integrated third-party APIs including Digio, Karza, and Mifos.
-- Implemented Elasticsearch-based search improvements.
-- Improved workflow efficiency and reduced processing delays.
-- Worked across backend logic, database interaction, and production-style API design.
-
-<p>
-  <img src="https://img.shields.io/badge/Java-312E81?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elasticsearch-4F46E5?style=flat-square&logo=elasticsearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/API%20Integration-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/FinTech-7C3AED?style=flat-square" />
-</p>
-
 ### Software Engineering Experience — Nuvepro Technologies  
 **Backend Development & Assessment Validation**
 
