@@ -49,6 +49,15 @@ I enjoy transforming product ideas into production-style systems with clean arch
 
 I bring a product engineering mindset: understanding user workflows, building end-to-end features, improving performance, writing maintainable code, documenting clearly, and delivering systems that feel polished and enterprise-ready.
 
+## Education
+
+| Degree | Institution | Location | Timeline |
+|---|---|---|---|
+| Master of Science in Computer Science | University of Texas at Arlington | Arlington, Texas, USA | May 2026 |
+| Bachelor of Engineering in Computer Science and Engineering | JSS Academy of Technical Education | Bangalore, Karnataka, India | Jul 2022 |
+
+---
+
 ### Open To
 
 <p align="center">
