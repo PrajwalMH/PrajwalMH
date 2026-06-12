@@ -332,38 +332,6 @@ Built a Smart City healthcare service web application designed to provide secure
 
 ---
 
-## Certifications
-
-### AWS
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-312E81?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Knowledge-4F46E5?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
-### Oracle
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle-Java%20Programming-6D28D9?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-Database%20Foundations-7C3AED?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-### NPTEL
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NPTEL-Programming-312E81?style=for-the-badge&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPTEL-Computer%20Science-4F46E5?style=for-the-badge&logo=academia&logoColor=white" />
-</p>
-
-### Cisco
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cisco-Networking-6D28D9?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-7C3AED?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
-
----
-
 ## Coding Profiles
 
 <p align="center">
